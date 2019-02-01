@@ -1,0 +1,5 @@
+percobaan ke 5
+
+dengan berbagai perubahan
+
+dan percobaan meng apply stash ke master
