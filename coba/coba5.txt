@@ -3,3 +3,8 @@ percobaan ke 5
 dengan berbagai perubahan
 
 dan percobaan meng apply stash ke master
+<<<<<<< HEAD
+=======
+
+berikut penggunaannya
+>>>>>>> 8270f4079a3b06f481fa984d277cda81b4beaa91
