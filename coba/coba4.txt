@@ -1,0 +1,10 @@
+ini adalah text ke 4
+
+dengan berbagai baris didalamnya
+
+dan informasi yang bla bla
+
+
+ditambah lagi baris sementara 
+
+perubahan sementara untuk percobaan stashing
